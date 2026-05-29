@@ -2,13 +2,13 @@
 
 A functional, client-side financial tracking application built to solve the real, everyday hassle of managing personal spending and budgets. No complex setups, no mandatory external cloud accounts—just straight-to-the-point expense tracking that works right in your browser.
 
-**Live Project Link:** [Insert your Vercel deployment URL here]
+**Live Project Link:** https://finance-react-app.vercel.app/
 
 ---
 
 ## 🛠️ Features & Project Requirements Met
 
-This application is built entirely with **React** and **React Router**, checking off all the operational boxes required by the project specifications:
+This application is built entirely with **React** and **React Router**.
 
 ### 1. State Management & Data Persistence (`localStorage`)
 * **Zero-friction onboarding:** Uses data persistence via `localStorage` to read and write user profiles, budgets, and expenses seamlessly. 
